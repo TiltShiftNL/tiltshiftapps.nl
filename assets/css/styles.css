@@ -1,0 +1,14 @@
+a.button {
+    background: #df4c44;
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Merriweather', serif;
+    display: block;
+    text-align: center;
+    border: 0;
+    line-height: 50px;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 20px;
+    text-decoration: none;
+}
